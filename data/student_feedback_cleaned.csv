@@ -1,0 +1,732 @@
+text,category,sentiment_score,sentiment,clean_text
+all these are good,examination,1,positive,all these are good
+Satisfactory,library facilities,1,positive,satisfactory
+very good.,library facilities,1,positive,very good
+"it is quite good , depends upon teacher and their experience",teaching,1,positive,it is quite good depends upon teacher and their experience
+Yes,labwork,1,positive,yes
+Our university has lot of extracurricular going on and it helps us a lot.,extracurricular,1,positive,our university has lot of extracurricular going on and it helps us a lot
+excellent,teaching,1,positive,excellent
+"Teaching is excellent,but lecture delivery is not up to the mark.Punctuality is good",teaching,1,positive,teaching is excellent but lecture delivery is not up to the mark punctuality is good
+I like the question pattern,examination,1,positive,i like the question pattern
+ALL PRACTICAL WORK IS GOOD,labwork,1,positive,all practical work is good
+Not so good,examination,-1,negative,not so good
+all are good,teaching,1,positive,all are good
+I think electrotherapy practical should be of 2 hours.That's enough I think.Rest is fine.,labwork,0,neutral,i think electrotherapy practical should be of 2 hours that's enough i think rest is fine
+everything is good,teaching,1,positive,everything is good
+"It's appreciable
+Students who are having interest in co curricular activities, getting a good platform",extracurricular,1,positive,it's appreciable students who are having interest in co curricular activities getting a good platform
+lab evaluations are pretty good .they help us a lot.,labwork,1,positive,lab evaluations are pretty good they help us a lot
+its hard to find a computer working in lab. Students cannot save data in one single PC,labwork,-1,negative,its hard to find a computer working in lab students cannot save data in one single pc
+very good,labwork,1,positive,very good
+content of the course is good,course content,1,positive,content of the course is good
+They are extraordinary,extracurricular,1,positive,they are extraordinary
+"Interaction is satisfying, Lecture delivery is Good, Punctuality is Excellent",teaching,1,positive,interaction is satisfying lecture delivery is good punctuality is excellent
+interaction is good but not with mostly male lecturers.punctuality is maintained by everyone but lecture delivery not peak quality.,teaching,0,neutral,interaction is good but not with mostly male lecturers punctuality is maintained by everyone but lecture delivery not peak quality
+"It's good 
+Also depends on teacher's knowledge and student's interest",labwork,1,positive,it's good also depends on teacher's knowledge and student's interest
+teaching delivery is good .but it is better to reduce there speed of  lecture delivery to understand the student better,teaching,0,neutral,teaching delivery is good but it is better to reduce there speed of lecture delivery to understand the student better
+All lectures are giving their best to teach the students,teaching,1,positive,all lectures are giving their best to teach the students
+not good...... must be improve,labwork,-1,negative,not good must be improve
+it was quite great and unique,extracurricular,1,positive,it was quite great and unique
+We have a good library with all facalities.,library facilities,1,positive,we have a good library with all facalities
+"exam pattern is good, very well marks distribution and paper checking varies from faculty to faculty.",examination,1,positive,exam pattern is good very well marks distribution and paper checking varies from faculty to faculty
+As compared to other colleges and university our university is perfect in all the aspects,teaching,1,positive,as compared to other colleges and university our university is perfect in all the aspects
+it is ok,teaching,1,positive,it is ok
+our university is very good but in terms of interaction of teachers wd students is not at all fair because they interact wd only students understands his/her teaching they don't make remaining students to understand the topic,teaching,-1,negative,our university is very good but in terms of interaction of teachers wd students is not at all fair because they interact wd only students understands his her teaching they don't make remaining students to understand the topic
+The depth of course is very much  deep. According to me its very essential,course content,1,positive,the depth of course is very much deep according to me its very essential
+Pretty Good,course content,1,positive,pretty good
+they all are held in super,extracurricular,1,positive,they all are held in super
+coming to the examinations it is good,examination,1,positive,coming to the examinations it is good
+library facilty is good,library facilities,1,positive,library facilty is good
+coming to the courses these are very well planned... and it all depends on the lectures.,course content,1,positive,coming to the courses these are very well planned and it all depends on the lectures
+"I have never seen this type of examination,,,,,,,very GOOD  pattern",examination,1,positive,i have never seen this type of examination very good pattern
+Again some of the faculties don't know how to behave otherwise it is good.,library facilities,0,neutral,again some of the faculties don't know how to behave otherwise it is good
+mid term percentage should be increased so that students get more choice to get success in the examinations,examination,0,neutral,mid term percentage should be increased so that students get more choice to get success in the examinations
+Everything is fine. Every thing is taught in depth.Even a single point is elaborated enough to understand.,course content,1,positive,everything is fine every thing is taught in depth even a single point is elaborated enough to understand
+"content is enough, we donot need more.",course content,1,positive,content is enough we donot need more
+Activities are not up to the mark as  advertisement.,extracurricular,-1,negative,activities are not up to the mark as advertisement
+Its nice .,course content,1,positive,its nice
+not much interested,extracurricular,0,neutral,not much interested
+"Exam pattern Very good, Marks distribution good but sometimes disappointing, paper checking OK",examination,1,positive,exam pattern very good marks distribution good but sometimes disappointing paper checking ok
+extracurricular activities are also good,extracurricular,1,positive,extracurricular activities are also good
+Lab evaluations are good.,labwork,1,positive,lab evaluations are good
+EXELLENT,library facilities,1,positive,exellent
+I WAS A STUDENT OF A BOARDING SCHOOL .....(jnv) I STUDIED FOR 7  YEARS THERE RESIDING IN HOSTEL ..NOW LIVING IN LPU IS SAME LIKE THAT..AND STILL MORE SAME AND PUNCTUALITY IS SHOWN HERE BY BOTH TEACHERS AND STUDENTS...AND ALSO BY THE STAFF..          SECURITY IS ABOVE 90%(IN CASE OF  STUDENT IS WELL MANURED)  ....CLASSES REGULAR ....SPORTS DAILY.....PARTICIPATION WELL/.......QUALITY BELOW AVERAGE,teaching,0,neutral,i was a student of a boarding school jnv i studied for 7 years there residing in hostel now living in lpu is same like that and still more same and punctuality is shown here by both teachers and students and also by the staff security is above 90 in case of student is well manured classes regular sports daily participation well quality below average
+I think number of books are very less according to the students .Only 2-3 copies are available.,library facilities,-1,negative,i think number of books are very less according to the students only 2 3 copies are available
+content of course is more than enough to get the basics of that particular subject.,course content,1,positive,content of course is more than enough to get the basics of that particular subject
+All the activities are gud and appropriate for students,extracurricular,1,positive,all the activities are gud and appropriate for students
+Average,examination,0,neutral,average
+It is statisfactory.,examination,1,positive,it is statisfactory
+I like reading books in Library,library facilities,1,positive,i like reading books in library
+intraction is good and leacture delivery also good and then punctuality is also is good,teaching,1,positive,intraction is good and leacture delivery also good and then punctuality is also is good
+This university is no1 in terms of extracurricular activities and in encouraging students to participate at their comfort levels.,extracurricular,1,positive,this university is no1 in terms of extracurricular activities and in encouraging students to participate at their comfort levels
+library facilities are good for students.,library facilities,1,positive,library facilities are good for students
+Knowledge is maximum gained  by reading books and also teachers explain the concept in depth.,course content,1,positive,knowledge is maximum gained by reading books and also teachers explain the concept in depth
+It is excellent.,extracurricular,1,positive,it is excellent
+"our university is good in terms of lecture delivery,interaction and punctuality",teaching,1,positive,our university is good in terms of lecture delivery interaction and punctuality
+very good 5/5,examination,1,positive,very good 5 5
+"teaching is good but some teachers are not able to interact properly and are not able to clear the concepts properly, teachers are punctual.",teaching,0,neutral,teaching is good but some teachers are not able to interact properly and are not able to clear the concepts properly teachers are punctual
+Good enough,labwork,1,positive,good enough
+"teachers are good in subject,and punctuality",teaching,1,positive,teachers are good in subject and punctuality
+they are giving good knowledge for us,course content,1,positive,they are giving good knowledge for us
+not bad,course content,1,positive,not bad
+Very good teaching and management but too much load on student and working hours,teaching,0,neutral,very good teaching and management but too much load on student and working hours
+We don't get answers key and even the question papers for our mcq exams.There should be some means by which we could recheck our answers and get to know what mistakes we have made.,examination,-1,negative,we don't get answers key and even the question papers for our mcq exams there should be some means by which we could recheck our answers and get to know what mistakes we have made
+i dont know,course content,0,neutral,i dont know
+books are not available,library facilities,-1,negative,books are not available
+Good marks distribution Students can easily check there performance throught the semester,examination,1,positive,good marks distribution students can easily check there performance throught the semester
+not much good,examination,-1,negative,not much good
+Excellent,library facilities,1,positive,excellent
+courses are also good .but lt of subjects in cse departments at 1st year it feels like burden upon us,course content,0,neutral,courses are also good but lt of subjects in cse departments at 1st year it feels like burden upon us
+average,teaching,0,neutral,average
+IT IS VERY MUCH USEFUL AND WE CAN PARTICIPATE IN OUR INTERESTS,extracurricular,1,positive,it is very much useful and we can participate in our interests
+Poor,extracurricular,0,neutral,poor
+This is the best in our university because there is no other university which takes seriously for practical work.,labwork,1,positive,this is the best in our university because there is no other university which takes seriously for practical work
+Examination pattern and marks distribution all the terms are good.Ca and MTE also give the chance to students for improving.,examination,1,positive,examination pattern and marks distribution all the terms are good ca and mte also give the chance to students for improving
+excellent ...they  work hard..their way of teaching is also pretty good,labwork,1,positive,excellent they work hard their way of teaching is also pretty good
+"good but there is more need of keeping books of general topics about social,polity,gk,...etc other than related to subject so that we will get some knowledge about country related issues..............",library facilities,0,neutral,good but there is more need of keeping books of general topics about social polity gk etc other than related to subject so that we will get some knowledge about country related issues
+Quite a lot of events are organized and students have a all round growth which is a nice thing.,extracurricular,1,positive,quite a lot of events are organized and students have a all round growth which is a nice thing
+my rating in this is 4/5,course content,1,positive,my rating in this is 4 5
+satisfactory.,labwork,1,positive,satisfactory
+it is difficult to understand experiment in 1 hour,labwork,-1,negative,it is difficult to understand experiment in 1 hour
+"teaching is ok but the interaction with the students need to improve, i mean they have to focus on dull students more  than intelligents....",teaching,0,neutral,teaching is ok but the interaction with the students need to improve i mean they have to focus on dull students more than intelligents
+The university consists of a whole world in itself.It is diverse and manages to conduct all events properly.I love being the part of this university where we get equal and all opportunities in all respects and fields.,teaching,1,positive,the university consists of a whole world in itself it is diverse and manages to conduct all events properly i love being the part of this university where we get equal and all opportunities in all respects and fields
+"good,they work very hard for us",course content,0,neutral,good they work very hard for us
+good,examination,1,positive,good
+i also want to participate in that activities but i can't take part in those activities because I'm a day scholar,extracurricular,-1,negative,i also want to participate in that activities but i can't take part in those activities because i'm a day scholar
+good.,library facilities,1,positive,good
+good,teaching,1,positive,good
+when compared to other universities we need better material and exposure.,course content,-1,negative,when compared to other universities we need better material and exposure
+lab practicals and evaluations are below average and need lot of changes and improvements,labwork,-1,negative,lab practicals and evaluations are below average and need lot of changes and improvements
+It's good,labwork,1,positive,it's good
+very good it is a good oppurtunities to many students,extracurricular,1,positive,very good it is a good oppurtunities to many students
+With the help of practicals students are able to understand all the concept.so it is also good.,labwork,1,positive,with the help of practicals students are able to understand all the concept so it is also good
+fine,library facilities,1,positive,fine
+some teachers aren't doing their jobs in very well manner,teaching,-1,negative,some teachers aren't doing their jobs in very well manner
+content is very knowledgable and gives us huge knowledge of every subject,course content,1,positive,content is very knowledgable and gives us huge knowledge of every subject
+Exam pattern and marks distribution are excellent but sometimes there are some errors in paper checking.,examination,0,neutral,exam pattern and marks distribution are excellent but sometimes there are some errors in paper checking
+there are doing there job good,library facilities,1,positive,there are doing there job good
+exam pattern is good and good paper checking but paper checking can be improved,examination,1,positive,exam pattern is good and good paper checking but paper checking can be improved
+"interaction is very less ,when it comes to lecture delivery its fine but the co cordination not there between the lectueres",teaching,-1,negative,interaction is very less when it comes to lecture delivery its fine but the co cordination not there between the lectueres
+Excellent lectures are delivered by teachers and all teachers are very punctual.,teaching,1,positive,excellent lectures are delivered by teachers and all teachers are very punctual
+time not sufficient,examination,-1,negative,time not sufficient
+I don't like the -ve marking system. appart from that everything is great,examination,0,neutral,i don't like the ve marking system appart from that everything is great
+More number of lab/practicals should be there to enhance practical knowledge.,labwork,-1,negative,more number of lab practicals should be there to enhance practical knowledge
+not good,teaching,-1,negative,not good
+VERY GOOD,extracurricular,1,positive,very good
+There are no sufficient lab equipments in the labs and the avilable euipments are also not perfect.,labwork,-1,negative,there are no sufficient lab equipments in the labs and the avilable euipments are also not perfect
+very hard papers and main concept papers,examination,0,neutral,very hard papers and main concept papers
+there should not be negative marking,examination,-1,negative,there should not be negative marking
+excellent!!!,examination,1,positive,excellent
+good,extracurricular,1,positive,good
+lab practical work help us to learn the things properly and evalution is also very necessary as it helps us to retain concepts,labwork,1,positive,lab practical work help us to learn the things properly and evalution is also very necessary as it helps us to retain concepts
+Needs some improvement,course content,-1,negative,needs some improvement
+HAVE TO IMPROVE,course content,-1,negative,have to improve
+excellent  simply superb,extracurricular,1,positive,excellent simply superb
+Labs helps to know how the work is done.It thought me a good lessons.,labwork,1,positive,labs helps to know how the work is done it thought me a good lessons
+yeah! well some of the faculty are not teaching well but the schedule of the university are superb ... and university asked feedback from us .that is really helpful,course content,0,neutral,yeah well some of the faculty are not teaching well but the schedule of the university are superb and university asked feedback from us that is really helpful
+It's appreciable,course content,1,positive,it's appreciable
+"examination department is not good, teaching is quite good, I cant get extra time for extra knowledge, interaction is good",teaching,1,positive,examination department is not good teaching is quite good i cant get extra time for extra knowledge interaction is good
+Perfect,course content,1,positive,perfect
+Probably the best part of university is its examination and its pattern.,examination,1,positive,probably the best part of university is its examination and its pattern
+"Library facilities are good, it maintains silence there and makes good environment to study but sometimes it goes very strict which is not required according to me.",library facilities,1,positive,library facilities are good it maintains silence there and makes good environment to study but sometimes it goes very strict which is not required according to me
+"very knowledgeable, some subjects do not have dedicated material like books available",course content,0,neutral,very knowledgeable some subjects do not have dedicated material like books available
+GOOD,teaching,1,positive,good
+Its good and proper design,library facilities,1,positive,its good and proper design
+Good,course content,1,positive,good
+way of teaching is average,teaching,1,positive,way of teaching is average
+everything is good for faculty,teaching,1,positive,everything is good for faculty
+Really our library provides very good facilites for students and teachers but fine  system was not good it was directly increased upto 10.This is not a good thing.,library facilities,0,neutral,really our library provides very good facilites for students and teachers but fine system was not good it was directly increased upto 10 this is not a good thing
+"there are lot of extracurricular activites held in university but so many of them are unknown to us ,the problem is there is no such ad's viewed to us
+my rating is 3/5",extracurricular,0,neutral,there are lot of extracurricular activites held in university but so many of them are unknown to us the problem is there is no such ad's viewed to us my rating is 3 5
+very good,examination,1,positive,very good
+"Knowledge,depth of course is good but course material are not upto the mark",course content,0,neutral,knowledge depth of course is good but course material are not upto the mark
+libary is giving a lot to us  but we are not getting it,library facilities,0,neutral,libary is giving a lot to us but we are not getting it
+average 3.5/5,labwork,0,neutral,average 3 5 5
+The examination system of the university is very impressive.The sitting plan of he students is made in such a way that no 2 students of same class give the exam in same room or even sometimes same blocks.Through this students also get to know and visit different blocks of the university.The checking is also fair .,examination,1,positive,the examination system of the university is very impressive the sitting plan of he students is made in such a way that no 2 students of same class give the exam in same room or even sometimes same blocks through this students also get to know and visit different blocks of the university the checking is also fair
+Lab and practical are not upto the mark. The topic which are practiced are almost already done in Btech.,labwork,-1,negative,lab and practical are not upto the mark the topic which are practiced are almost already done in btech
+i hate it,labwork,-1,negative,i hate it
+course content is knowledgeable,course content,1,positive,course content is knowledgeable
+They are conducted in proper way.,labwork,1,positive,they are conducted in proper way
+It is good,teaching,1,positive,it is good
+lab practical work can further be improved so that it can meet industrial standards,labwork,-1,negative,lab practical work can further be improved so that it can meet industrial standards
+The library has insufficent number of books for all the students,library facilities,-1,negative,the library has insufficent number of books for all the students
+laboratory provides us a good knowledge about practicals.,labwork,1,positive,laboratory provides us a good knowledge about practicals
+average,library facilities,0,neutral,average
+Teachers are not giving depth of course . They trying to cover there work only .,course content,-1,negative,teachers are not giving depth of course they trying to cover there work only
+content provided by you is excellent so that we learnt more and more about that particular subject,course content,1,positive,content provided by you is excellent so that we learnt more and more about that particular subject
+This semester university has provide best teachers,course content,1,positive,this semester university has provide best teachers
+excellent work,labwork,1,positive,excellent work
+"Returning the question paper after the exams to be expected,because to clear and clarify the doubts regarding particular subjects",examination,-1,negative,returning the question paper after the exams to be expected because to clear and clarify the doubts regarding particular subjects
+all activties are good,teaching,1,positive,all activties are good
+Very good indeed.,teaching,1,positive,very good indeed
+not good..the timing is too much for labs and syllabus is also so vast.we don't get propr revision,labwork,-1,negative,not good the timing is too much for labs and syllabus is also so vast we don't get propr revision
+Some of the teachers are not well experienced but they are interactive and helpful and punctual.,teaching,1,positive,some of the teachers are not well experienced but they are interactive and helpful and punctual
+It is best,examination,1,positive,it is best
+upto the mark,course content,1,positive,upto the mark
+for some subjects like maths and english(passage writing) the time duration neds to increase,examination,-1,negative,for some subjects like maths and english passage writing the time duration neds to increase
+book issuing time should be increased for 2 weeks,library facilities,-1,negative,book issuing time should be increased for 2 weeks
+in terms of lecture delivery that is good.in terms of punctuality that is also good but in terms of intraction that is very bad. There are some teachers they donot interact and do not litsn our problms that means they do not coprate.,teaching,-1,negative,in terms of lecture delivery that is good in terms of punctuality that is also good but in terms of intraction that is very bad there are some teachers they donot interact and do not litsn our problms that means they do not coprate
+Its fine but it should focus more towards practical knowledge rather than content based. It would be helpful for us.,course content,0,neutral,its fine but it should focus more towards practical knowledge rather than content based it would be helpful for us
+"before coming to lpu i thought sports were very good n encouraging.but, there are many politics in sports especially in cricket.",extracurricular,-1,negative,before coming to lpu i thought sports were very good n encouraging but there are many politics in sports especially in cricket
+Practical work is in interesting but different teachers evaluate in their own way. Some of the teachers in some section  give marks without taking viva and some does not give marks accordingly,labwork,-1,negative,practical work is in interesting but different teachers evaluate in their own way some of the teachers in some section give marks without taking viva and some does not give marks accordingly
+exams conducting is very good .but paper correction is very bad,examination,0,neutral,exams conducting is very good but paper correction is very bad
+everything was good.,examination,1,positive,everything was good
+interaction of some faculty was good but not all faculty..,teaching,0,neutral,interaction of some faculty was good but not all faculty
+"overall rating on this activity is 4.5/5 .very nice teaching and interaction between students and lectures was good, every time there will be new and fresh style in  delivering the lectures ,thanks.",teaching,1,positive,overall rating on this activity is 4 5 5 very nice teaching and interaction between students and lectures was good every time there will be new and fresh style in delivering the lectures thanks
+"interaction satisfied, lecture delivery good,punctuality always on time",teaching,1,positive,interaction satisfied lecture delivery good punctuality always on time
+library facilities are not good.They are not following the rules( they are using phones in library).,library facilities,-1,negative,library facilities are not good they are not following the rules they are using phones in library
+library facilities is good,library facilities,1,positive,library facilities is good
+Yes,library facilities,1,positive,yes
+marks distribution is good but paper checking is not that well,examination,0,neutral,marks distribution is good but paper checking is not that well
+exam pattern and marks distribution is very well procedure,examination,1,positive,exam pattern and marks distribution is very well procedure
+excellent,labwork,1,positive,excellent
+all are good,examination,1,positive,all are good
+Content of the courses should be changed a bit. More of industry oriented feature like Linux and GitHub must be implemented. Proper detailing and advanced knowledge is required and is to be instilled in the students.The course material is good.,course content,-1,negative,content of the courses should be changed a bit more of industry oriented feature like linux and github must be implemented proper detailing and advanced knowledge is required and is to be instilled in the students the course material is good
+It's good,teaching,1,positive,it's good
+excellent,examination,1,positive,excellent
+examination including exam pattern is good in some ways.MCQs shouls given to students for the preparation of exams.,examination,1,positive,examination including exam pattern is good in some ways mcqs shouls given to students for the preparation of exams
+There is good evaluations in lab regarding practicle,labwork,1,positive,there is good evaluations in lab regarding practicle
+"excellent, but reduse the speed of teaching  ,up to understand the students",teaching,0,neutral,excellent but reduse the speed of teaching up to understand the students
+some of our faculty member are not so experienced that's why most of the time we are facing problems subjects like CSE(c++),teaching,-1,negative,some of our faculty member are not so experienced that's why most of the time we are facing problems subjects like cse c
+In my opnion very less content is their in our syllabus..it will be good if there is more syllabus and depth included in our syllabus,course content,-1,negative,in my opnion very less content is their in our syllabus it will be good if there is more syllabus and depth included in our syllabus
+super,labwork,1,positive,super
+"maintained punctuality, good lecture delivery",teaching,1,positive,maintained punctuality good lecture delivery
+it is good learning these courses,course content,1,positive,it is good learning these courses
+Good,extracurricular,1,positive,good
+Insufficient books,library facilities,-1,negative,insufficient books
+lab is very much helpful,labwork,1,positive,lab is very much helpful
+optimum content,course content,1,positive,optimum content
+nice..enough,labwork,1,positive,nice enough
+Some subjects are good and predictable.Remaining courses are not satisfactory,course content,0,neutral,some subjects are good and predictable remaining courses are not satisfactory
+They are really very intersting. All the students enjoys alot and get a chance to showcase there talent,extracurricular,1,positive,they are really very intersting all the students enjoys alot and get a chance to showcase there talent
+the system in library usually does not work . so it creates a problem for us to issue the book,library facilities,-1,negative,the system in library usually does not work so it creates a problem for us to issue the book
+helps in improving skills,labwork,1,positive,helps in improving skills
+IT IS ALSO GOOD,library facilities,1,positive,it is also good
+"Pattern is good ...marks distribution that includes ca,mt,et ,nd attendence all that is  little complicated",examination,0,neutral,pattern is good marks distribution that includes ca mt et nd attendence all that is little complicated
+strict paper correction.,examination,-1,negative,strict paper correction
+practicals are good but evaluations are not because they don't give enough time to work,labwork,0,neutral,practicals are good but evaluations are not because they don't give enough time to work
+depth of course is less on the other hand knowledge and material is good,course content,0,neutral,depth of course is less on the other hand knowledge and material is good
+more books should be provided and the issue period should be increased,library facilities,-1,negative,more books should be provided and the issue period should be increased
+very good,extracurricular,1,positive,very good
+library is awesome and rich,library facilities,1,positive,library is awesome and rich
+Excellent,examination,1,positive,excellent
+Content of the courses is good but some courses need improvement. Course material is not upto the mark.,course content,-1,negative,content of the courses is good but some courses need improvement course material is not upto the mark
+syllabus is more which required time ..it should b less so that student can proper concentrate getting the knowlegde instead of just covering the syllabusgood,course content,-1,negative,syllabus is more which required time it should b less so that student can proper concentrate getting the knowlegde instead of just covering the syllabusgood
+very well,extracurricular,1,positive,very well
+average,course content,0,neutral,average
+not very good... must be improved.,labwork,-1,negative,not very good must be improved
+extracurricular activies should be held when there are no classes for the students to attend so that every student can enjoy and participate in the events,extracurricular,-1,negative,extracurricular activies should be held when there are no classes for the students to attend so that every student can enjoy and participate in the events
+labs are interesting and helpful toknoe the knowledge,labwork,1,positive,labs are interesting and helpful toknoe the knowledge
+Practical and easy learning,labwork,1,positive,practical and easy learning
+it is good,examination,1,positive,it is good
+the best pattern of examination are in lpu .,examination,1,positive,the best pattern of examination are in lpu
+Teachers are supposed to let the students know the actual use of the instruments used in the lab.,labwork,0,neutral,teachers are supposed to let the students know the actual use of the instruments used in the lab
+lecture delivery and punctuality was good but the interaction with students was not good.,teaching,0,neutral,lecture delivery and punctuality was good but the interaction with students was not good
+Its Quite Good,teaching,1,positive,its quite good
+all activities are good,extracurricular,1,positive,all activities are good
+Not good,examination,-1,negative,not good
+all are enough,extracurricular,1,positive,all are enough
+Extracurricular activities are good and provide a  good platform.,extracurricular,1,positive,extracurricular activities are good and provide a good platform
+university management is extordinary but some of the faculty is very bad,teaching,0,neutral,university management is extordinary but some of the faculty is very bad
+It's good when compare with my Btech lectures and teaching activities.,teaching,1,positive,it's good when compare with my btech lectures and teaching activities
+satisfied,teaching,1,positive,satisfied
+library has providing excellent facilities,library facilities,1,positive,library has providing excellent facilities
+exam pattern is completely different the entire exams are objective oriented resumbling  the education in abroad my review is 5/5,examination,1,positive,exam pattern is completely different the entire exams are objective oriented resumbling the education in abroad my review is 5 5
+provides good platform to interested students,extracurricular,1,positive,provides good platform to interested students
+library facilities are good . Every book is available in the library,library facilities,1,positive,library facilities are good every book is available in the library
+practical work insome labs are not upto the marks,labwork,-1,negative,practical work insome labs are not upto the marks
+The best,extracurricular,1,positive,the best
+I donot participate,extracurricular,0,neutral,i donot participate
+sometimes proper course material is not required.,course content,-1,negative,sometimes proper course material is not required
+it is good depending on the faculty,teaching,1,positive,it is good depending on the faculty
+"lecture delivery depends on teacher's knowledge, punctuality is good",teaching,1,positive,lecture delivery depends on teacher's knowledge punctuality is good
+All is good. no other university is so serious about the concept of practicals.,teaching,1,positive,all is good no other university is so serious about the concept of practicals
+good but not good . sir improve the subject,teaching,0,neutral,good but not good sir improve the subject
+course content is good,course content,1,positive,course content is good
+Good,examination,1,positive,good
+"Thats good but the problm is whenever in university the functions like one india, one world are held we are not alowed to go because we have to attend the classes and if we miss the classes we will gona loose the attendence and everyone knows in lpu attendnce is very important. 
+Thanx",extracurricular,0,neutral,thats good but the problm is whenever in university the functions like one india one world are held we are not alowed to go because we have to attend the classes and if we miss the classes we will gona loose the attendence and everyone knows in lpu attendnce is very important thanx
+"everything was good regarding to university but, some lecturers don't have grip on the subject and lag in the teaching",teaching,0,neutral,everything was good regarding to university but some lecturers don't have grip on the subject and lag in the teaching
+Lectures helps in clear our concept,teaching,1,positive,lectures helps in clear our concept
+every thing is fine.,examination,1,positive,every thing is fine
+"i've never went to library in lpu.so,i don't know about that.",library facilities,0,neutral,i've never went to library in lpu so i don't know about that
+sometime it is irrelevent with the ongoing courses.,course content,-1,negative,sometime it is irrelevent with the ongoing courses
+All is good .,examination,1,positive,all is good
+Its good,labwork,1,positive,its good
+good  but marks are not given properly,labwork,-1,negative,good but marks are not given properly
+absolutely fine all books are there but the thing is that the time limit is very less we have to return the book that we have issued  very fast,library facilities,-1,negative,absolutely fine all books are there but the thing is that the time limit is very less we have to return the book that we have issued very fast
+Library is vast and has got wide variety of books But I think more number of specimen copies of books should be made available,library facilities,0,neutral,library is vast and has got wide variety of books but i think more number of specimen copies of books should be made available
+content does not provide deep knowledge,course content,-1,negative,content does not provide deep knowledge
+Good,library facilities,1,positive,good
+Labs are upto the mark.,labwork,1,positive,labs are upto the mark
+Hardworking,library facilities,1,positive,hardworking
+exam pattern is good and good paper checking.,examination,1,positive,exam pattern is good and good paper checking
+pattern of examination is good but paper checking is not at all going in a good way.,examination,0,neutral,pattern of examination is good but paper checking is not at all going in a good way
+Punctuality is good. Most of the teachers are not interacting with students .,teaching,0,neutral,punctuality is good most of the teachers are not interacting with students
+very poor.no equipments are there,labwork,-1,negative,very poor no equipments are there
+Great,examination,1,positive,great
+"In labs,the lecturers has to interact with each student to improve their knowledge, in all the ways,before giving us the work they must explain about the experiment once so that we will come to know how to perform n take precautions while doing,........",labwork,0,neutral,in labs the lecturers has to interact with each student to improve their knowledge in all the ways before giving us the work they must explain about the experiment once so that we will come to know how to perform n take precautions while doing
+library facilities are excellent...but only limited books are available ..so books should be increased.,library facilities,0,neutral,library facilities are excellent but only limited books are available so books should be increased
+it is good,extracurricular,1,positive,it is good
+lot of activities and students get exposure in games.,extracurricular,1,positive,lot of activities and students get exposure in games
+lab and practical works are good..with a little draw back of faculty in connecting  the lab practical to the outside  world..,labwork,0,neutral,lab and practical works are good with a little draw back of faculty in connecting the lab practical to the outside world
+"Exam pattren is good, marks distribution is also good bt paper cheacking is very tight.",examination,1,positive,exam pattren is good marks distribution is also good bt paper cheacking is very tight
+"it is relly awesome,extirdinary and marvellous but no time to attend",extracurricular,1,positive,it is relly awesome extirdinary and marvellous but no time to attend
+"University teaching here is very much dependent upon slides,though it is a easy way of teaching but still leaving some concepts unclear..otherwise interaction with the faculty is good.Lecture delivery sometimes is not upto the mark and punctuality is  fine.",teaching,0,neutral,university teaching here is very much dependent upon slides though it is a easy way of teaching but still leaving some concepts unclear otherwise interaction with the faculty is good lecture delivery sometimes is not upto the mark and punctuality is fine
+examination pattern is good,examination,1,positive,examination pattern is good
+It is really gud,teaching,1,positive,it is really gud
+its very tough and very diffcult to understand,course content,-1,negative,its very tough and very diffcult to understand
+I think stock is not enough more books are required.,library facilities,-1,negative,i think stock is not enough more books are required
+They are sportive,extracurricular,1,positive,they are sportive
+"not satisfactory, lab work must include latest technologies",labwork,-1,negative,not satisfactory lab work must include latest technologies
+THEY IS NO PROBLEM WITH THEM,library facilities,-1,negative,they is no problem with them
+COURSE IS GOOD NO PROPER COURSE MATERIAL,course content,0,neutral,course is good no proper course material
+average,library facilities,1,positive,average
+"some lectures are excellent,but not everyone",teaching,0,neutral,some lectures are excellent but not everyone
+Average,library facilities,0,neutral,average
+all things are good,examination,1,positive,all things are good
+good,library facilities,1,positive,good
+too much examinations,examination,0,neutral,too much examinations
+it is not appropriate,course content,-1,negative,it is not appropriate
+uncertain,library facilities,0,neutral,uncertain
+duration of issuing   books from library should be changed from 1week to 2 week that would be great.,library facilities,-1,negative,duration of issuing books from library should be changed from 1week to 2 week that would be great
+Courses are very good and useful,course content,1,positive,courses are very good and useful
+"our university is good in punctuality,lecture delivery but it is not good in terms of interaction",teaching,1,positive,our university is good in punctuality lecture delivery but it is not good in terms of interaction
+MCQ pattern is quite good and efficient way for evolving students.,examination,1,positive,mcq pattern is quite good and efficient way for evolving students
+satisfactory,examination,1,positive,satisfactory
+teaching activities of our university is good. i am satisfied with it.,teaching,1,positive,teaching activities of our university is good i am satisfied with it
+Good.,extracurricular,1,positive,good
+it is not very deep,course content,-1,negative,it is not very deep
+Overall all these things are the plus point of the university,examination,1,positive,overall all these things are the plus point of the university
+depth  of course was good ....providing a basic knowledge not so deep in subjects....at least they should provide deep knowledge and syllabus in core subjects...,course content,0,neutral,depth of course was good providing a basic knowledge not so deep in subjects at least they should provide deep knowledge and syllabus in core subjects
+faculties are doing quite well but need more senior lecturers.,teaching,0,neutral,faculties are doing quite well but need more senior lecturers
+No idea about the extracurricular activities.,extracurricular,0,neutral,no idea about the extracurricular activities
+teaching is good some lecturers are showing partiality between south people and north people,teaching,0,neutral,teaching is good some lecturers are showing partiality between south people and north people
+content of courses are average,course content,0,neutral,content of courses are average
+Its good,library facilities,1,positive,its good
+fair marking scheme and adaptable pattern,examination,1,positive,fair marking scheme and adaptable pattern
+"depth of the course are depended on the level of student intake, course material is delivered after the class in UMS",course content,0,neutral,depth of the course are depended on the level of student intake course material is delivered after the class in ums
+teacher are punctual but they should also give us the some practical knowledge other than theortical,teaching,0,neutral,teacher are punctual but they should also give us the some practical knowledge other than theortical
+good..,extracurricular,1,positive,good
+super but paper checking is not good,examination,0,neutral,super but paper checking is not good
+Perfect,extracurricular,1,positive,perfect
+Its give various opportunities and exposure,extracurricular,1,positive,its give various opportunities and exposure
+Very good,examination,1,positive,very good
+not bad..,teaching,1,positive,not bad
+"Knowledgeable is Good, Depth of course is satisfying, proper course material is also good",course content,1,positive,knowledgeable is good depth of course is satisfying proper course material is also good
+yeah its obviously good,examination,1,positive,yeah its obviously good
+"Excellent exam pattern, paper checking in this university is easy",examination,1,positive,excellent exam pattern paper checking in this university is easy
+Examination pattern is good but marks distribution very confusing,examination,0,neutral,examination pattern is good but marks distribution very confusing
+all labs and practical going on well,labwork,1,positive,all labs and practical going on well
+content of the courses are update and mostly based on current technology.,course content,1,positive,content of the courses are update and mostly based on current technology
+It was quite great and unique.,extracurricular,1,positive,it was quite great and unique
+i felt happy because it encourages our talents,extracurricular,1,positive,i felt happy because it encourages our talents
+no comments. Because when you participiate you get reappear or backlog and no time is given for exam preparation,extracurricular,-1,negative,no comments because when you participiate you get reappear or backlog and no time is given for exam preparation
+all are hardworking and punctual,library facilities,1,positive,all are hardworking and punctual
+all good,examination,1,positive,all good
+it seems to me very good since it is a good source of interaction with other and to built a leadership quilities and to overcome our faults.,extracurricular,1,positive,it seems to me very good since it is a good source of interaction with other and to built a leadership quilities and to overcome our faults
+bad,examination,-1,negative,bad
+It is a good way in pattern,examination,1,positive,it is a good way in pattern
+the staff is highly punctual ad interactive and encourage students to participate in the class,teaching,1,positive,the staff is highly punctual ad interactive and encourage students to participate in the class
+"Exam pattern and how it is conducted is really seems to be good but it's my first year and when I went to scrutiny for the first time it was not as per my expectations. Teachers have marked the answers as per their choice, they must look for the content rather than the length of answers. So poor paper checking is there.",examination,0,neutral,exam pattern and how it is conducted is really seems to be good but it's my first year and when i went to scrutiny for the first time it was not as per my expectations teachers have marked the answers as per their choice they must look for the content rather than the length of answers so poor paper checking is there
+as per the courses all the sub are providing  worth knowledge,course content,1,positive,as per the courses all the sub are providing worth knowledge
+IT IS THE BEST THING IN THIS UNIVERSITY I LIKE IT,extracurricular,1,positive,it is the best thing in this university i like it
+extracurricular activities are excellent and provides best platform to students.,extracurricular,1,positive,extracurricular activities are excellent and provides best platform to students
+"In this university there is good interaction with the students, Teachers in this university can deliver the lectures effectively, There is good punctuality in this university",teaching,1,positive,in this university there is good interaction with the students teachers in this university can deliver the lectures effectively there is good punctuality in this university
+library is very well managed and provide needed facilities to us,library facilities,1,positive,library is very well managed and provide needed facilities to us
+all are good,library facilities,1,positive,all are good
+these are very use full to the sudents forphysical activity and improvement of knowledge,extracurricular,1,positive,these are very use full to the sudents forphysical activity and improvement of knowledge
+they are showing partiality between north indians and south indians,teaching,-1,negative,they are showing partiality between north indians and south indians
+ok ok,labwork,1,positive,ok ok
+they are good but they should give exposure to more students and not the same.,extracurricular,0,neutral,they are good but they should give exposure to more students and not the same
+some books are not available. So please provide,library facilities,-1,negative,some books are not available so please provide
+yeah quite well but ... some of the books are not available,library facilities,0,neutral,yeah quite well but some of the books are not available
+average(in one term there should be only two major subjects based on numerical),course content,0,neutral,average in one term there should be only two major subjects based on numerical
+Very Tough,examination,-1,negative,very tough
+they are going excellent,extracurricular,1,positive,they are going excellent
+excellent..... u r the best in providing facilties and etc .. for extra curricular activities,extracurricular,1,positive,excellent u r the best in providing facilties and etc for extra curricular activities
+Satisfied,course content,1,positive,satisfied
+IT IS GOING GOOD,teaching,1,positive,it is going good
+"Library facility is very good but there is a problem collection of books, Available books are very less for some subjects",library facilities,0,neutral,library facility is very good but there is a problem collection of books available books are very less for some subjects
+All good,extracurricular,1,positive,all good
+Satisfied knowedgeable and proper course material,course content,1,positive,satisfied knowedgeable and proper course material
+labs n practicals are good.,labwork,1,positive,labs n practicals are good
+lab and practical work are litial good,labwork,1,positive,lab and practical work are litial good
+Sometimes systems at labs are screwed up .Otherwise everything is  at their respected desk.,labwork,0,neutral,sometimes systems at labs are screwed up otherwise everything is at their respected desk
+in this university there is lot of events and lot of extra curriclar activities....,extracurricular,1,positive,in this university there is lot of events and lot of extra curriclar activities
+Practical work is fair,labwork,1,positive,practical work is fair
+in examinations please try to give question papers,examination,0,neutral,in examinations please try to give question papers
+everything is good.,examination,1,positive,everything is good
+that's  great,extracurricular,1,positive,that's great
+"The materials or links provided for study purpose is good, clarity in depth of courses but again it differs from teacher to teacher.",course content,1,positive,the materials or links provided for study purpose is good clarity in depth of courses but again it differs from teacher to teacher
+Easily available course material with sufficient knowledge gaining,course content,1,positive,easily available course material with sufficient knowledge gaining
+as per the lab evaluation we r satisfied with  it,labwork,1,positive,as per the lab evaluation we r satisfied with it
+GOOD,examination,1,positive,good
+"Discipline, punctuality , lecture delivery all are good but hv to do some work for quality of lecture",teaching,1,positive,discipline punctuality lecture delivery all are good but hv to do some work for quality of lecture
+not too bad,course content,1,positive,not too bad
+Excellent     but sometimes lack of books especially during exam times,library facilities,0,neutral,excellent but sometimes lack of books especially during exam times
+as per the exam pattern maths exam always have to be subjective rather than objective.,examination,-1,negative,as per the exam pattern maths exam always have to be subjective rather than objective
+some of the universities not conducted any extracurricular activities but in our university doing these it is good for our feature,extracurricular,1,positive,some of the universities not conducted any extracurricular activities but in our university doing these it is good for our feature
+"Talk about punctuality, it's really good but the lecture delivery is somehow not appreciated because every teacher has different style of teaching, so lack of knowledge in terms of subject is there and interaction is also kind of boring. A teacher should be entertaining as well but they are really not. All they want us to be studios and disciplined which is really not the thinking of every student.",teaching,0,neutral,talk about punctuality it's really good but the lecture delivery is somehow not appreciated because every teacher has different style of teaching so lack of knowledge in terms of subject is there and interaction is also kind of boring a teacher should be entertaining as well but they are really not all they want us to be studios and disciplined which is really not the thinking of every student
+good.,examination,1,positive,good
+excellent but checking procedure is not exceptable since we  fail to know our faults in mid term..,examination,0,neutral,excellent but checking procedure is not exceptable since we fail to know our faults in mid term
+According to me everything is going well in accordance to interaction.More than enough is served.,teaching,1,positive,according to me everything is going well in accordance to interaction more than enough is served
+library contains all the books regarding courses and other materials and very cooperative library staff,library facilities,1,positive,library contains all the books regarding courses and other materials and very cooperative library staff
+subjects are appropriate but much depth is required as syllabus includes only basics not the details,course content,0,neutral,subjects are appropriate but much depth is required as syllabus includes only basics not the details
+"very good teaching facilities, lecture given are fruitful and teachers are punctual",teaching,1,positive,very good teaching facilities lecture given are fruitful and teachers are punctual
+most of the teacher don't even bother about the practical performed by students.They give marks just by seeing face or something like that.,labwork,-1,negative,most of the teacher don't even bother about the practical performed by students they give marks just by seeing face or something like that
+every one can tell depth of course but some one only give notes,course content,0,neutral,every one can tell depth of course but some one only give notes
+very poor,examination,-1,negative,very poor
+Very good,extracurricular,1,positive,very good
+Notbad,examination,1,positive,notbad
+Its good,course content,1,positive,its good
+Not good,course content,-1,negative,not good
+Thats good,library facilities,1,positive,thats good
+exam pattern is good,examination,1,positive,exam pattern is good
+the level of examination should be raised. Questions with reasoning must be included,examination,-1,negative,the level of examination should be raised questions with reasoning must be included
+not bad,teaching,1,positive,not bad
+lab work is also good,labwork,1,positive,lab work is also good
+course material is perfect,course content,1,positive,course material is perfect
+"Exams are conducted upon the the basis of the revised chapters upto that point, marks distribution is appropriate, paper checking is good",examination,1,positive,exams are conducted upon the the basis of the revised chapters upto that point marks distribution is appropriate paper checking is good
+Evaluation method is gud.But the content is more to write in file,labwork,0,neutral,evaluation method is gud but the content is more to write in file
+not all the teachers are teaching well but it's fine,teaching,0,neutral,not all the teachers are teaching well but it's fine
+Required text books are not available to every student,library facilities,-1,negative,required text books are not available to every student
+Nice,course content,1,positive,nice
+it is neither too good nor too bad,examination,0,neutral,it is neither too good nor too bad
+lecture delivery is not so good,teaching,-1,negative,lecture delivery is not so good
+extra curricular are so good. university is providing many pathways to many students....apart from education,extracurricular,1,positive,extra curricular are so good university is providing many pathways to many students apart from education
+GOOD AND STRICT,examination,1,positive,good and strict
+"This university is far better than other university when coming to the exam pattern,marks disturbation and while coming to paper checking no biased corrections equal to all.",examination,1,positive,this university is far better than other university when coming to the exam pattern marks disturbation and while coming to paper checking no biased corrections equal to all
+Very Good,labwork,1,positive,very good
+nice,extracurricular,1,positive,nice
+The course structure is good and follows todays technology. Some subjects portion are too vast and are difficult to cover in 1 sem,course content,0,neutral,the course structure is good and follows todays technology some subjects portion are too vast and are difficult to cover in 1 sem
+NOT GOOD ...,labwork,-1,negative,not good
+best,extracurricular,1,positive,best
+lab work is nice.,labwork,1,positive,lab work is nice
+It is very good learning in this university,teaching,1,positive,it is very good learning in this university
+some of them are very helpful and knowledgeable and some are just formality,course content,0,neutral,some of them are very helpful and knowledgeable and some are just formality
+all excellent,examination,1,positive,all excellent
+the lab evaluations are very strict,labwork,-1,negative,the lab evaluations are very strict
+very good library facilities. Issuing time of book must be increased,library facilities,1,positive,very good library facilities issuing time of book must be increased
+I am satisfied with the facilities but few books are limited of  database distribution,library facilities,0,neutral,i am satisfied with the facilities but few books are limited of database distribution
+increasing confidence,extracurricular,1,positive,increasing confidence
+average,extracurricular,0,neutral,average
+practicals are pretty well.,labwork,1,positive,practicals are pretty well
+good and punctual,teaching,1,positive,good and punctual
+One of the best things I like about this university. The best of all.,extracurricular,1,positive,one of the best things i like about this university the best of all
+not so good,teaching,-1,negative,not so good
+GOOD,labwork,1,positive,good
+Extra curricular activities also help students to divert their mind from their study for some time. University plays an important role in this task.,extracurricular,1,positive,extra curricular activities also help students to divert their mind from their study for some time university plays an important role in this task
+there are many courses which are irrelevant to the branch. some topics are not covered. There is no proper material for any course,course content,-1,negative,there are many courses which are irrelevant to the branch some topics are not covered there is no proper material for any course
+nice,teaching,1,positive,nice
+good delivery,teaching,1,positive,good delivery
+Extracurricular activities are good. It helps people to know their talent and build up their skills.,extracurricular,1,positive,extracurricular activities are good it helps people to know their talent and build up their skills
+Average,extracurricular,0,neutral,average
+teachers give us all the information required to improve the performance.,teaching,1,positive,teachers give us all the information required to improve the performance
+Library facilities are excellent in terms of good techniques that are used over there.,library facilities,1,positive,library facilities are excellent in terms of good techniques that are used over there
+ok,labwork,1,positive,ok
+i think mid trem should be also subjective,examination,0,neutral,i think mid trem should be also subjective
+It is good,extracurricular,1,positive,it is good
+"too many examination, we are frustrated",examination,-1,negative,too many examination we are frustrated
+teaching is good but some lecturers are showing partiality between south people and north people,teaching,0,neutral,teaching is good but some lecturers are showing partiality between south people and north people
+average,examination,0,neutral,average
+super,library facilities,1,positive,super
+content is sufficient for us,course content,1,positive,content is sufficient for us
+not effective and satisfactory in terms of lecture delivery by all the faculty .,teaching,-1,negative,not effective and satisfactory in terms of lecture delivery by all the faculty
+Books are heavily outnumbered when compared to number of students this is the only problem with library.,library facilities,0,neutral,books are heavily outnumbered when compared to number of students this is the only problem with library
+Excellect,examination,1,positive,excellect
+very good,teaching,1,positive,very good
+NICE TIMING..,examination,1,positive,nice timing
+its good,course content,1,positive,its good
+good and qualified teachers but few lacks in interaction with students and fails to describe a topic,teaching,0,neutral,good and qualified teachers but few lacks in interaction with students and fails to describe a topic
+Accurate,course content,1,positive,accurate
+I like this very much because every subject is linked up with real life situations and every thing in the subject is use full,course content,1,positive,i like this very much because every subject is linked up with real life situations and every thing in the subject is use full
+that is only good in this university,extracurricular,1,positive,that is only good in this university
+practical work provides detail knowledge of theoretical work,labwork,1,positive,practical work provides detail knowledge of theoretical work
+PAPER CHECKING IS VERY HARD REMAINING IS GOOD,examination,0,neutral,paper checking is very hard remaining is good
+IP is provided to the students which is very helpful for the students.,course content,1,positive,ip is provided to the students which is very helpful for the students
+excllent,extracurricular,1,positive,excllent
+All courses material provide very good knowledge in depth .,course content,1,positive,all courses material provide very good knowledge in depth
+never went there,library facilities,0,neutral,never went there
+Excellent,course content,1,positive,excellent
+Awesome,extracurricular,1,positive,awesome
+extracurricular activities held in university are necessary it provides student a platform where they can improve and groom them.,extracurricular,1,positive,extracurricular activities held in university are necessary it provides student a platform where they can improve and groom them
+in lab also they are showing parilaty,labwork,-1,negative,in lab also they are showing parilaty
+Our labs do not have all facalities.,labwork,-1,negative,our labs do not have all facalities
+excellent,extracurricular,1,positive,excellent
+super,extracurricular,1,positive,super
+They are good,library facilities,1,positive,they are good
+This is really a good thing that events happen in our university regularly but they must be announced early so that every student can prepare themselves for participation because sometimes we get to know about most of the events when they have already been conducted. So announcement must be there.,extracurricular,0,neutral,this is really a good thing that events happen in our university regularly but they must be announced early so that every student can prepare themselves for participation because sometimes we get to know about most of the events when they have already been conducted so announcement must be there
+normal,teaching,0,neutral,normal
+IT IS GOOD,labwork,1,positive,it is good
+the content of the course is knowledgeable,course content,1,positive,the content of the course is knowledgeable
+Excellent,labwork,1,positive,excellent
+Nice,library facilities,1,positive,nice
+ok,course content,1,positive,ok
+very strict,examination,-1,negative,very strict
+syllabus is not in debth,course content,-1,negative,syllabus is not in debth
+very cooperative,library facilities,1,positive,very cooperative
+That's good to have a negative marking pattern in exam but the time is not sufficient to do all the questions.,examination,0,neutral,that's good to have a negative marking pattern in exam but the time is not sufficient to do all the questions
+"The evaluation is again bad for our CA, as one of our faculty is really weird. He gives us remarks on the basis of how we present things in front of it, he never look for the content of our answer, which is really annoying. As he expects us to deliver answer in the way he wants us to do. But how can a person do that, as people do have different mentality and they do explain themselves in different manner, so a teacher must understand that quality of a child and should give him marks on the basis of what they say not what they should say.",labwork,-1,negative,the evaluation is again bad for our ca as one of our faculty is really weird he gives us remarks on the basis of how we present things in front of it he never look for the content of our answer which is really annoying as he expects us to deliver answer in the way he wants us to do but how can a person do that as people do have different mentality and they do explain themselves in different manner so a teacher must understand that quality of a child and should give him marks on the basis of what they say not what they should say
+Its upto mark and very efficiently held in our university,extracurricular,1,positive,its upto mark and very efficiently held in our university
+better,library facilities,1,positive,better
+It is proper,course content,1,positive,it is proper
+Outstanding,extracurricular,1,positive,outstanding
+all books are not available,library facilities,-1,negative,all books are not available
+"I like communication classes,courses are good",course content,1,positive,i like communication classes courses are good
+its good for refreshment,extracurricular,1,positive,its good for refreshment
+library facilites are good,library facilities,1,positive,library facilites are good
+excellent university  the mode of teaching is completely different than any other university in india. lecturers are very friendly with every one they interact just like friends and they are very punctual,teaching,1,positive,excellent university the mode of teaching is completely different than any other university in india lecturers are very friendly with every one they interact just like friends and they are very punctual
+poor,labwork,-1,negative,poor
+satisfactory,labwork,1,positive,satisfactory
+"the activities are very good but no time is given to students for participation, so its of no use",extracurricular,-1,negative,the activities are very good but no time is given to students for participation so its of no use
+Capacity of library is less compared to size of university.,library facilities,-1,negative,capacity of library is less compared to size of university
+"The university is good but it also has a long way to go. More teachers should have their PhD and college fests related to academic curriculum must be improved to a great extent and must be managed properly.The interaction is good, lecture delivery needs more lucidity. The punctuality is top notch.",teaching,0,neutral,the university is good but it also has a long way to go more teachers should have their phd and college fests related to academic curriculum must be improved to a great extent and must be managed properly the interaction is good lecture delivery needs more lucidity the punctuality is top notch
+very good indeed,teaching,1,positive,very good indeed
+lab activities are good but not satisfactory in explaining point of view.,labwork,0,neutral,lab activities are good but not satisfactory in explaining point of view
+university offers alkot of activities which is excellent on their part as students are able to explore themselves,extracurricular,1,positive,university offers alkot of activities which is excellent on their part as students are able to explore themselves
+All terms are good regarding the university activities,teaching,1,positive,all terms are good regarding the university activities
+very good.,teaching,1,positive,very good
+Awesome,course content,1,positive,awesome
+average,labwork,0,neutral,average
+EXTRAORDINARY,extracurricular,1,positive,extraordinary
+The courses available in the university have got a scope and the teaching of these courses goes on with the point of view of bringing out the best from the student by indulging them in different activities and projects.,course content,1,positive,the courses available in the university have got a scope and the teaching of these courses goes on with the point of view of bringing out the best from the student by indulging them in different activities and projects
+librery facilities are excellent,library facilities,1,positive,librery facilities are excellent
+Fine,library facilities,1,positive,fine
+All books are not available,library facilities,-1,negative,all books are not available
+library facilities need to be improve by bringing some more books,library facilities,-1,negative,library facilities need to be improve by bringing some more books
+way of teaching is good,teaching,1,positive,way of teaching is good
+i felt its better because there is no problem from library facilities,library facilities,1,positive,i felt its better because there is no problem from library facilities
+"good, teacher is delivery the lecture in the best way they can",teaching,1,positive,good teacher is delivery the lecture in the best way they can
+its fine.,labwork,1,positive,its fine
+Material of the course is not good enough,course content,-1,negative,material of the course is not good enough
+Yes,examination,1,positive,yes
+satisfied,examination,1,positive,satisfied
+books are less,library facilities,-1,negative,books are less
+i think library facilities are only for hostelers,library facilities,-1,negative,i think library facilities are only for hostelers
+The examination pattern is good .But time is not sufficient for those questions.,examination,0,neutral,the examination pattern is good but time is not sufficient for those questions
+"The faculty is good ,interaction between student and teacher is also good",teaching,1,positive,the faculty is good interaction between student and teacher is also good
+Library facilities are very good. No issues,library facilities,1,positive,library facilities are very good no issues
+these are very usefull to students .excellent,extracurricular,1,positive,these are very usefull to students excellent
+"good, and also like the teaching style",teaching,1,positive,good and also like the teaching style
+good facilities,library facilities,1,positive,good facilities
+they are good,library facilities,1,positive,they are good
+extracurrcular activities held in university is good.,extracurricular,1,positive,extracurrcular activities held in university is good
+Descent.,examination,1,positive,descent
+Complete wastage of time. Again this opinion is strictly personal and may not coincide with others.,extracurricular,-1,negative,complete wastage of time again this opinion is strictly personal and may not coincide with others
+quite good,examination,1,positive,quite good
+the labs are not practically built,labwork,-1,negative,the labs are not practically built
+The books that are recommended do not contain appropriate content; leads the students to depend on slides given by teachers. Hence the knowledge remains superficial,course content,-1,negative,the books that are recommended do not contain appropriate content leads the students to depend on slides given by teachers hence the knowledge remains superficial
+very good there we can find several course books and we can find several reference books also...,library facilities,1,positive,very good there we can find several course books and we can find several reference books also
+"good it is, but teachers do not consider the new ones.",extracurricular,0,neutral,good it is but teachers do not consider the new ones
+library facilities are good but number of books are less,library facilities,0,neutral,library facilities are good but number of books are less
+every thing is fine,course content,1,positive,every thing is fine
+good,course content,1,positive,good
+library facility is good,library facilities,1,positive,library facility is good
+there are many oppertunities for students .. its all upon students about how they utilize them.,extracurricular,1,positive,there are many oppertunities for students its all upon students about how they utilize them
+"as per libraries, few books are not available and in computer library there are hardly 5 PCs working",library facilities,-1,negative,as per libraries few books are not available and in computer library there are hardly 5 pcs working
+its better,examination,1,positive,its better
+Lab or practical work is excellent and yes including evaluations also.,labwork,1,positive,lab or practical work is excellent and yes including evaluations also
+The examination pattern is good. More of logic based and subjective questions to be asked which is based upon conceptual learning. Paper checking must be done in a more lucid manner because many doubts arise with the checking of OMR sheet.,examination,0,neutral,the examination pattern is good more of logic based and subjective questions to be asked which is based upon conceptual learning paper checking must be done in a more lucid manner because many doubts arise with the checking of omr sheet
+"Good, but there should be at least one a practical subject in every semester",course content,1,positive,good but there should be at least one a practical subject in every semester
+Some of the teacher are un experienced. Also they are unfair and baised. Infact many of the teachers are having few or no experience about the subject,teaching,-1,negative,some of the teacher are un experienced also they are unfair and baised infact many of the teachers are having few or no experience about the subject
+While coming to extracurriculum activities it's better than any other university which I had come around.,extracurricular,1,positive,while coming to extracurriculum activities it's better than any other university which i had come around
+The course notes are very knowledgeable and proper.,course content,1,positive,the course notes are very knowledgeable and proper
+they are good,extracurricular,1,positive,they are good
+regarding the courses everything is good,course content,1,positive,regarding the courses everything is good
+Accurate,examination,1,positive,accurate
+not bad,examination,1,positive,not bad
+having good material in labs.,labwork,1,positive,having good material in labs
+All the terms are good regarding the university activities.,teaching,1,positive,all the terms are good regarding the university activities
+very good,course content,1,positive,very good
+content of course is ample but depth must be more,course content,0,neutral,content of course is ample but depth must be more
+LAB IS VERY GOOD,labwork,1,positive,lab is very good
+we are getting maximum knowledge,course content,1,positive,we are getting maximum knowledge
+practical work is good,labwork,1,positive,practical work is good
+extracurricular activities are good.,extracurricular,1,positive,extracurricular activities are good
+content of courses improves my knowledge,course content,1,positive,content of courses improves my knowledge
+good,labwork,1,positive,good
+"I have no words to say about our library facilities,,,,,,,, SIMPLY AWESOME",library facilities,1,positive,i have no words to say about our library facilities simply awesome
+Sometimes study burden is that much that we can not participate in these activities ...there should b one activity complusory for every student like all other courses,extracurricular,-1,negative,sometimes study burden is that much that we can not participate in these activities there should b one activity complusory for every student like all other courses
+some of the faculty are not uploading ppts,course content,-1,negative,some of the faculty are not uploading ppts
+too many activities are conducted and student get ample amount of opportunities to participate,extracurricular,1,positive,too many activities are conducted and student get ample amount of opportunities to participate
+It will provide us various books to increase our knowledge or to understand the  concept because it is good,library facilities,1,positive,it will provide us various books to increase our knowledge or to understand the concept because it is good
+Excellent,extracurricular,1,positive,excellent
+GOOD,library facilities,1,positive,good
+Average,labwork,0,neutral,average
+Yes.,extracurricular,1,positive,yes
+Its very helpful,library facilities,1,positive,its very helpful
+not so good,examination,-1,negative,not so good
+it was good but it can be improved,labwork,0,neutral,it was good but it can be improved
+Its required some libral in rules,library facilities,-1,negative,its required some libral in rules
+"Interaction between students and teachers is good ,The lectures delivery is fine, punctuality is good",teaching,1,positive,interaction between students and teachers is good the lectures delivery is fine punctuality is good
+not good,course content,-1,negative,not good
+Good but lacks audience.....as only participants can see these activities on duty leave basis,extracurricular,0,neutral,good but lacks audience as only participants can see these activities on duty leave basis
+Lab work is properly covered in the labs by the faculty and evaluations help to learn more practical knowledge in depth.,labwork,1,positive,lab work is properly covered in the labs by the faculty and evaluations help to learn more practical knowledge in depth
+"The material provided in this university is depth of course, The courses in this university is knowledgeable",course content,1,positive,the material provided in this university is depth of course the courses in this university is knowledgeable
+insufficient books,library facilities,-1,negative,insufficient books
+exam pattern and marks distribution are good,examination,1,positive,exam pattern and marks distribution are good
+practical work including evaluations are good so that students can learn about practicals.,labwork,1,positive,practical work including evaluations are good so that students can learn about practicals
+It's good but we don't get sufficient time for participating in that activities,extracurricular,0,neutral,it's good but we don't get sufficient time for participating in that activities
+examination pattern was excellent,examination,1,positive,examination pattern was excellent
+Pattern and procedure of the examination is very good. Paper checking needed to be improved.,examination,0,neutral,pattern and procedure of the examination is very good paper checking needed to be improved
+"examination pattern, marks, paper checking is good.",examination,1,positive,examination pattern marks paper checking is good
+Everything is going fine in lab . learning new things. That is good for us,labwork,1,positive,everything is going fine in lab learning new things that is good for us
+Good.,labwork,1,positive,good
+The content of the courses are good but depth of courses are not enough to get the good concepts.,course content,0,neutral,the content of the courses are good but depth of courses are not enough to get the good concepts
+it helps in building up university's reputation.,extracurricular,1,positive,it helps in building up university's reputation
+I don't know abt that bcoz i didn't go to library till now.,library facilities,0,neutral,i don't know abt that bcoz i didn't go to library till now
+Its Good,labwork,1,positive,its good
+exam  pattern is very good but if you give question papers to students it is helpful,examination,0,neutral,exam pattern is very good but if you give question papers to students it is helpful
+"Well... all the books are not avilable . If they are in library , books are in less number and strength of student are large.",library facilities,-1,negative,well all the books are not avilable if they are in library books are in less number and strength of student are large
+good they are knowledgebale and helps us interacting with other students,extracurricular,1,positive,good they are knowledgebale and helps us interacting with other students
+hahahah,extracurricular,0,neutral,hahahah
+More than best,extracurricular,1,positive,more than best
+ok,extracurricular,1,positive,ok
+extracurricular activities increases mental and physical abilities,extracurricular,1,positive,extracurricular activities increases mental and physical abilities
+It is excellent.,library facilities,1,positive,it is excellent
+Very rough handling,library facilities,-1,negative,very rough handling
+Interaction is good but it should b more ...rest is too perfect,teaching,1,positive,interaction is good but it should b more rest is too perfect
+LESS TIME FOR STUDY ...LESS TIME FOR PAPER ATTEMTING...LESS TIME FOR EVERY THING ....LESS KNOWLEGE.....LESS DEPTH OF COURSE .....BUT PROPER COURSE MATERIAL ACCORDING TO EXAM,course content,-1,negative,less time for study less time for paper attemting less time for every thing less knowlege less depth of course but proper course material according to exam
+the material provided is beneficial and provides much knowledge,course content,1,positive,the material provided is beneficial and provides much knowledge
+excellent,library facilities,1,positive,excellent
+good teaching delivery,teaching,1,positive,good teaching delivery
+all the books are easily available and accessable and the limit of book issued need to be increased,library facilities,1,positive,all the books are easily available and accessable and the limit of book issued need to be increased
+some courses are irrelevant as they are not related to my stream.,course content,-1,negative,some courses are irrelevant as they are not related to my stream
+Great job,extracurricular,1,positive,great job
+Yes,extracurricular,1,positive,yes
+unbiased,extracurricular,1,positive,unbiased
+its  booring,teaching,0,neutral,its booring
+It's good but we don't find the books because their are much less number of books,library facilities,0,neutral,it's good but we don't find the books because their are much less number of books
+Is good,course content,1,positive,is good
+rough handling,library facilities,-1,negative,rough handling
+labs are very interesting it is helpful to know the knowledge,labwork,1,positive,labs are very interesting it is helpful to know the knowledge
+i dont think about,library facilities,0,neutral,i dont think about
+Chance to go and enjoy should be given.I think it should be off when any activity like One India is there to go and enjoy.Otherwise everything is good.,extracurricular,-1,negative,chance to go and enjoy should be given i think it should be off when any activity like one india is there to go and enjoy otherwise everything is good
+very good and you can also increase the standard of Courses,course content,1,positive,very good and you can also increase the standard of courses
+Too much lanlb file work,labwork,-1,negative,too much lanlb file work
+lab duration of 3 hours is very long .,labwork,-1,negative,lab duration of 3 hours is very long
+No views,extracurricular,0,neutral,no views
+The content of course should be increase with depth,course content,-1,negative,the content of course should be increase with depth
+Yes,teaching,1,positive,yes
+"super, the extracurricular activities held in university. So that student can show the efforts in other fields.",extracurricular,1,positive,super the extracurricular activities held in university so that student can show the efforts in other fields
+i love it,library facilities,1,positive,i love it
+"Everything is very good. Interaction part is something like teachers mostly interact with each and every student, lecture delivery is very good and punctuality always maintains.",teaching,1,positive,everything is very good interaction part is something like teachers mostly interact with each and every student lecture delivery is very good and punctuality always maintains
+good enough.,library facilities,1,positive,good enough
+lab work is quite good,labwork,1,positive,lab work is quite good
+Descent.,library facilities,1,positive,descent
+"staff and faculty members are always available for interaction, very punctual and delivery of lecture can be improved",teaching,1,positive,staff and faculty members are always available for interaction very punctual and delivery of lecture can be improved
+"it is quite good , depending on teacher and their experience",teaching,1,positive,it is quite good depending on teacher and their experience
+It is so good.,course content,1,positive,it is so good
+Knowledge  and depth of the course  is good but while coming to the material it's not upto the mark.,course content,0,neutral,knowledge and depth of the course is good but while coming to the material it's not upto the mark
+Accurate,teaching,1,positive,accurate
+they are amazing and help to boost our stamina.,extracurricular,1,positive,they are amazing and help to boost our stamina
+every thing is good subjects have a very good depth almost all the  books are available   in the library and more than that 4/5,course content,1,positive,every thing is good subjects have a very good depth almost all the books are available in the library and more than that 4 5
+Not good,library facilities,-1,negative,not good
+Not upto the mark,labwork,-1,negative,not upto the mark
+ok,examination,1,positive,ok
+"some time lab is not proper working , some teacher's practical knowledge is less on the other side evaluations is not that much good",labwork,-1,negative,some time lab is not proper working some teacher's practical knowledge is less on the other side evaluations is not that much good
+All good,labwork,1,positive,all good
+facilities are good to overcome one's need,library facilities,1,positive,facilities are good to overcome one's need
+good library facilities,library facilities,1,positive,good library facilities
+Very good,course content,1,positive,very good
+its to good,teaching,1,positive,its to good
+Very good,labwork,1,positive,very good
+"Content of course is perfectly in line with the teaching philosophy that is being perpetuated here i.e cramming,rote learning.",course content,-1,negative,content of course is perfectly in line with the teaching philosophy that is being perpetuated here i e cramming rote learning
+better,extracurricular,1,positive,better
+library facilities provided are excellent,library facilities,1,positive,library facilities provided are excellent
+"everything is good but when coming to some lectures who dont have a good grip on subject,they dont behave well with students and they dont even teach all the concepts in the subject.",teaching,-1,negative,everything is good but when coming to some lectures who dont have a good grip on subject they dont behave well with students and they dont even teach all the concepts in the subject
+lecturer are punctual and can interact them easily.,teaching,1,positive,lecturer are punctual and can interact them easily
+content is good enough,course content,1,positive,content is good enough
+all things are good,teaching,1,positive,all things are good
+library has huge collection of books from different authors,library facilities,1,positive,library has huge collection of books from different authors
+lab improves practical knowledge,labwork,-1,negative,lab improves practical knowledge
+good.,course content,1,positive,good
+content of course is appropriate,course content,1,positive,content of course is appropriate
+Excellent but it depends upon teacher,teaching,1,positive,excellent but it depends upon teacher
+"examination checking sucks here , don't knw why I get low marks even if 4 qustions are wrong . answer key of exam is absurd, discrepancy system is not advantageous, answers of exam not right, omr should be uploaded",examination,-1,negative,examination checking sucks here don't knw why i get low marks even if 4 qustions are wrong answer key of exam is absurd discrepancy system is not advantageous answers of exam not right omr should be uploaded
+"I like it , i am satisfied all these work",examination,1,positive,i like it i am satisfied all these work
+"Exam pattern is up to the mark and the Cgpa depends on the various marks distributions like ca, mte etc which is very nice as compare to other institutions. Paper checking does not depend on length of ques but on the material which is the best part of it.",examination,1,positive,exam pattern is up to the mark and the cgpa depends on the various marks distributions like ca mte etc which is very nice as compare to other institutions paper checking does not depend on length of ques but on the material which is the best part of it
+According to me students are doing lab only for marks .,labwork,-1,negative,according to me students are doing lab only for marks
+pretty good,labwork,1,positive,pretty good
+the extracurricular activities held in university  are very enjoyable and good,extracurricular,1,positive,the extracurricular activities held in university are very enjoyable and good
+"Not that much good 
+Students are working so hard
+But they aren't getting satisfactory result",examination,-1,negative,not that much good students are working so hard but they aren't getting satisfactory result
+excellent,course content,1,positive,excellent
+well planned,course content,1,positive,well planned
+very good,library facilities,1,positive,very good
+too much good,labwork,1,positive,too much good
+very strcitly they evaluted marks,labwork,-1,negative,very strcitly they evaluted marks
+punctuality and lecture is good here but interaction isn't good.,teaching,0,neutral,punctuality and lecture is good here but interaction isn't good
+They are good.,library facilities,1,positive,they are good
+practicle must be of 2 hours,labwork,-1,negative,practicle must be of 2 hours
+Good,teaching,1,positive,good
+excelent,extracurricular,1,positive,excelent
+Almost each and every books is there.But the time limit for keeping book is too much shorted.,library facilities,0,neutral,almost each and every books is there but the time limit for keeping book is too much shorted
+"teachers are pretty interactive,But it all depends on the student to gain as much as knowledge he can from the teacher.Teachers are punctual and very helpful during exams time.",teaching,1,positive,teachers are pretty interactive but it all depends on the student to gain as much as knowledge he can from the teacher teachers are punctual and very helpful during exams time
+"good it was knowledgeable,depth of the course is good,there is but proper course materials in only for some  subjects",course content,1,positive,good it was knowledgeable depth of the course is good there is but proper course materials in only for some subjects
+the way of teaching is good but the time more than enough,teaching,1,positive,the way of teaching is good but the time more than enough
+"Sometimes only book is available for some subjects
+And it is reserved",library facilities,-1,negative,sometimes only book is available for some subjects and it is reserved
+"Not good, becouse in lab teachers donot teach us how to work on live projects or how to make a live project. So i have ovserved that whatever teachers have been teachig us in lab that will not usefull in our future life.",labwork,-1,negative,not good becouse in lab teachers donot teach us how to work on live projects or how to make a live project so i have ovserved that whatever teachers have been teachig us in lab that will not usefull in our future life
+Here we r able to do every thing by our own with u r valuable support,labwork,1,positive,here we r able to do every thing by our own with u r valuable support
+EXAMPATTERN IS GOOD AND MARKS DISTRIBUTION IS ALSO GOOD AND PAPER CHECKING IS VERY HARD,examination,1,positive,exampattern is good and marks distribution is also good and paper checking is very hard
+Well and Good,teaching,1,positive,well and good
+"examination pattern is good but,,there is blunder mistake.that is we ha no alternate to check the mistake where we have done morever no question papers also not given for discussion.so i suggest to..provide option for checking mistakes in the MCQ exams such as midterm.",examination,-1,negative,examination pattern is good but there is blunder mistake that is we ha no alternate to check the mistake where we have done morever no question papers also not given for discussion so i suggest to provide option for checking mistakes in the mcq exams such as midterm
+perfect,library facilities,1,positive,perfect
+exam pattern is very nice but paper checking is not at all good .,examination,0,neutral,exam pattern is very nice but paper checking is not at all good
+not good enough.. we want something more.,course content,-1,negative,not good enough we want something more
+"University is very good at delivering proper lectures,also the interaction with students is descent. Sometimes the teachers lack in terms of punctuality but overall university is giving a good input.",teaching,1,positive,university is very good at delivering proper lectures also the interaction with students is descent sometimes the teachers lack in terms of punctuality but overall university is giving a good input
+In CA's its in the hands of lectures... while in mte's and ete's its good.,examination,0,neutral,in ca's its in the hands of lectures while in mte's and ete's its good
+VERY NICE....BUT BOOKS ARE NOT AVAILABE EVERY TIME,library facilities,0,neutral,very nice but books are not availabe every time
+3 hours practical is so long. It should be of 2 hours only,labwork,-1,negative,3 hours practical is so long it should be of 2 hours only
+It is very gud,examination,1,positive,it is very gud
+good quallity content but some teachers donot upload ppts on time,course content,0,neutral,good quallity content but some teachers donot upload ppts on time
+VERY HIGH......NEED TO TAKE DOWN SOME ACCITIVTIES ................................NOISE POLLITION IN THE UNIVERSITY  ALWAYS A BIG PROBLEM.,extracurricular,-1,negative,very high need to take down some accitivties noise pollition in the university always a big problem
+good and ample number of extracurricular activities take place,extracurricular,1,positive,good and ample number of extracurricular activities take place
+not bad,labwork,1,positive,not bad
+not every one is getting opportunities here only recommended students getting.,extracurricular,-1,negative,not every one is getting opportunities here only recommended students getting
+They are doing there job well,library facilities,1,positive,they are doing there job well
+knowledge is maximum gained by reading books also the teachers explain depth if we are interested to know about it.,course content,0,neutral,knowledge is maximum gained by reading books also the teachers explain depth if we are interested to know about it
+it is very nice and timings of library is good 5/5,library facilities,1,positive,it is very nice and timings of library is good 5 5
+"waste ,library is not the good place to study",library facilities,-1,negative,waste library is not the good place to study
+course contents are very much relevant to our courses,course content,1,positive,course contents are very much relevant to our courses
+Lab is good the Prof explains everything before the lab begins and the Lab Asst helps us during the experiments,labwork,1,positive,lab is good the prof explains everything before the lab begins and the lab asst helps us during the experiments
+LPU gives the best opportunity for the students to show their talent.,extracurricular,1,positive,lpu gives the best opportunity for the students to show their talent
+"Awesome, peaceful, relaxing atmosphere",library facilities,1,positive,awesome peaceful relaxing atmosphere
+EXCELLENT,teaching,1,positive,excellent
+I like it soo much,labwork,1,positive,i like it soo much
+Library facilities are the strength of this university. It is awesome.,library facilities,1,positive,library facilities are the strength of this university it is awesome
+Again the university tests students of their ability to memorize stuff. Questions should emphasize more on concepts rather than testing brain's cramming storage house.,examination,-1,negative,again the university tests students of their ability to memorize stuff questions should emphasize more on concepts rather than testing brain's cramming storage house
+Perfect,teaching,1,positive,perfect
+its very bad thing not sowing answer of mcQ in exam we dont jiged what is rigth and rong where mak mistacvk,examination,-1,negative,its very bad thing not sowing answer of mcq in exam we dont jiged what is rigth and rong where mak mistacvk
+very bad,labwork,1,positive,very bad
+fully knowledgeable,course content,1,positive,fully knowledgeable
+Everything is fine.,examination,1,positive,everything is fine
+GOOD,course content,1,positive,good
+well and good infrastructure and have trending software in lab,labwork,1,positive,well and good infrastructure and have trending software in lab
+labs are good but experiments are not very informative,labwork,0,neutral,labs are good but experiments are not very informative
+"Its the best thing i have seen in this university,albeit the behaviour of library staff is unprofessional at times. They are whimsically rude.",library facilities,0,neutral,its the best thing i have seen in this university albeit the behaviour of library staff is unprofessional at times they are whimsically rude
+every thing is excllent but paper checking is not good,examination,0,neutral,every thing is excllent but paper checking is not good
+Examination pattern is good but mcq paper checking marks are not correct sometimes.,examination,0,neutral,examination pattern is good but mcq paper checking marks are not correct sometimes
+bcoz of lectures..we don't get time to participate..,extracurricular,-1,negative,bcoz of lectures we don't get time to participate
+Yes,course content,1,positive,yes
+good.,extracurricular,1,positive,good
+"I am very much satisfied with teaching faculty interms of iteraction,lecture delivery, punctuality etc",teaching,1,positive,i am very much satisfied with teaching faculty interms of iteraction lecture delivery punctuality etc
+Good,labwork,1,positive,good
+Everything would be fine if there are less number of students in our btech CSE.,teaching,0,neutral,everything would be fine if there are less number of students in our btech cse
+it is good leaning in lab but the lab instruments are not properly working,labwork,0,neutral,it is good leaning in lab but the lab instruments are not properly working
+Everything is pretty well organised,examination,1,positive,everything is pretty well organised
+the content of the course should be increased with the depth.,course content,-1,negative,the content of the course should be increased with the depth
+Lab evaluations are very strict,labwork,-1,negative,lab evaluations are very strict
+all the given terms are good regarding the university,teaching,1,positive,all the given terms are good regarding the university
+Good it provides a great platform,extracurricular,1,positive,good it provides a great platform
+"Interaction is very good,accurate supplement material is provided but recommendation of books is very poor,the change of a particular teacher after 3 months or a semester of same subject causes problems",teaching,0,neutral,interaction is very good accurate supplement material is provided but recommendation of books is very poor the change of a particular teacher after 3 months or a semester of same subject causes problems
+I am really enjoying,extracurricular,1,positive,i am really enjoying
+satisfactory,teaching,1,positive,satisfactory
+good enough,teaching,1,positive,good enough
+All are good except paper checking. It should be improved,examination,0,neutral,all are good except paper checking it should be improved
+bad,labwork,-1,negative,bad
+staff is showing partiality between north indians and south indians,teaching,-1,negative,staff is showing partiality between north indians and south indians
